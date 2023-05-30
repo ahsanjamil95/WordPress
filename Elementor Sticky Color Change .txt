@@ -1,0 +1,5 @@
+/* Elementor Sticky Color Change */
+
+.elementor-sticky--effects{
+   background: #3E3E55;
+}
